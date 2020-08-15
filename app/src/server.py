@@ -1,3 +1,4 @@
+# 修正に対する反応確認
 import os, re, redis
 from flask import Flask, jsonify, request
 
