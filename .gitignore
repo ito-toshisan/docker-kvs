@@ -1,0 +1,83 @@
+# Compiled source
+#----------------------
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.obj
+*.so
+
+# Package
+#----------------------
+*.7z
+*.zip
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+
+# Logs and Database
+#----------------------
+*.log
+# *.sql
+# *.sqlite
+
+# vi
+#----------------------
+*.swp
+
+# ms office
+#----------------------
+*.tmp
+
+# Word temporary
+~$*.doc*
+
+# Word Auto Backup File
+Backup of *.doc*
+
+# Excel temporary
+~$*.xls*
+
+# Excel Backup File
+*.xlk
+
+# PowerPoint temporary
+~$*.ppt*
+
+# Visio autosave temporary files
+*.~vsd*
+
+# OS Generatee files
+#----------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# for NetBeans
+#----------------------
+# ignore all files in the xxxx/ directory
+_bk/
+build/
+target/
+dist/
+lib/
+#nbproject/private/
+nbproject/
+
+# vagrant
+#----------------------
+.vagrant/
+.box
+
+# other
+#----------------------
+test/
+__pycache__/
